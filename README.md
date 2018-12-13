@@ -5,7 +5,7 @@ If you have Python 3 downloaded and installed on your computer then begin with s
 
 In your CLI
 1. Clone this github repository
-2. cd into the experiment_names_and_ids_chart directory
+2. cd into the number_of_experiments_in_project directory
 * Optional: Activate your virtual environment
 3. Run
 ```
